@@ -13,12 +13,12 @@ Use this snippet when creating a new page. Replace placeholders in ALL_CAPS.
   <meta property="og:description" content="PAGE_OG_DESCRIPTION" />
   <meta
     property="og:image"
-    content="https://robertkrolikowski.github.io/PortfolioStrona/assets/OG_IMAGE_FILE"
+    content="https://robertkrolikowski.github.io/portfolio/assets/OG_IMAGE_FILE"
   />
   <meta property="og:type" content="website" />
   <meta
     property="og:url"
-    content="https://robertkrolikowski.github.io/PortfolioStrona/PAGE_PATH"
+    content="https://robertkrolikowski.github.io/portfolio/PAGE_PATH"
   />
 
   <title>PAGE_TITLE</title>
